@@ -1,0 +1,7 @@
+The dataset provided is not my own, and is under an Attribution-NonCommercial-ShareAlike 4.0 International creative commons licence (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Again, the set is available at:
+https://www.kaggle.com/datasets/lokeshparab/gutenberg-books-and-metadata-2025
+
+From the dataset's kaggle datacard:
+"This dataset is intended strictly for educational and learning purposes. It is not for commercial use or intended to promote any business activities."
