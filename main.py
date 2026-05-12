@@ -379,7 +379,7 @@ if is_main:
             global headings
             super().__init__()
             self.record = record
-            self.setText(headings[0]+ ': ' +self.record[headings[0]] +' - '+ self.record['Title']+" by " + self.record['Authors'])
+            self.setText((headings[0]+ ': ' +self.record[headings[0]] +' - '+ self.record['Title']+" by " + self.record['Authors']) if self.record['Authors'] != "" else (headings[0]+ ': ' +self.record[headings[0]] +' - '+ self.record['Title']))
 
     class book_details(QWidget):
         # Display metadata and actions for a single book.
